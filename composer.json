@@ -1,0 +1,14 @@
+{
+    "name": "bidyanda/testing-bidya",
+    "authors": [
+        {
+            "name": "bidyanda"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "TestingBidya": "src/"
+        }
+    }
+}
